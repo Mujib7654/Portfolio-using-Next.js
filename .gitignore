@@ -33,7 +33,8 @@ yarn-error.log*
 #rough
 .env.development
 .env.local.example
-.end.production
+.env.production
+.txt
 
 # vercel
 .vercel
